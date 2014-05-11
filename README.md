@@ -1,0 +1,4 @@
+repoResRss
+==========
+
+privateproject
